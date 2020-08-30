@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1598762205980' stop='1598762221365'>
+    <name>Hero Pgae</name>
+    <title>Hero Pgae</title>
+    <test-cases>
+        <test-case start='1598762205981' status='passed' stop='1598762209375'>
+            <name>Verify Hero Page</name>
+            <title>Verify Hero Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='694b61e6-b3fa-46bc-9952-17eaf02d2c94-attachment.png' type='image/png' size='202145'/>
+            </attachments>
+        </test-case>
+        <test-case start='1598762209375' status='pending' stop='1598762209375'>
+            <name>Verify Drag and Drop Page</name>
+            <title>Verify Drag and Drop Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1598762209375' status='passed' stop='1598762221364'>
+            <name>Verify Drop Down Page</name>
+            <title>Verify Drop Down Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='e70cb4c5-8808-4990-b8b0-4e133d4b887b-attachment.png' type='image/png' size='83376'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

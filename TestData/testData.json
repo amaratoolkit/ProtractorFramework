@@ -1,0 +1,11 @@
+{
+  "login": {
+    "username": "uName",
+    "password": "pwd",
+    "url": "url"
+  },
+  "homePage": {
+    "featureLabel": "FEATURES & BENEFITS",
+    "dragAndDrop": "Drag and Drop"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "proractorframework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mainConfig.js",
+  "scripts": {
+    "test": "protractor mainConfig.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^6.14.8"
+  },
+  "devDependencies": {
+    "jasmine-expect": "^4.0.3"
+  }
+}
