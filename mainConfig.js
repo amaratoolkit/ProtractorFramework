@@ -15,8 +15,8 @@ exports.config = {
   chromeOptions: ["--disable-browser-side-navigation"],
   baseUrl: "https://angular.io/start",
 
-  //specs: ["./TestScripts/home-spec.js", "./TestScripts/hero-spec.js"],
-  specs: ["./TestScripts/hero-spec.js"],
+  specs: ["./TestScripts/home-spec.js", "./TestScripts/hero-spec.js"],
+  //specs: ["./TestScripts/hero-spec.js"],
 
   onPrepare: function () {
     var AllureReporter = require("jasmine-allure-reporter");
